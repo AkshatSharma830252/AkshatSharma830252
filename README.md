@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/akshat-sharma-8b346638a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-<a href="mailto:akshatsharma830252@gmail.com"><img src="https://img.shields.io/badge/Email-akshatsharma830252%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://mail.google.com/mail/?view=cm&to=akshatsharma830252@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-akshatsharma830252%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
     
   </a>
 </p>
