@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Pursuing BTech in AI and DATA SCIENCE in JEC<br><br>- 🔭 I’m currently working on a GEN AI Progect.<br>- 📚 I'm currently learning PYTHON,SQL and i had learned html,css,java script and react.<br>- ⚡ In my free time I make sketches and watching movies and also try to build some new projects.</p>
+<p align="left">Pursuing BTech in AI and DATA SCIENCE in JEC<br><br>- 🔭 🚀 Interested in building Python-based projects, especially in AI and Machine Learning.<br>- 📚 I'm currently learning PYTHON,SQL and i had learned html,css,java script and react.<br>- ⚡ In my free time I make sketches and watching movies and also try to build some new projects.</p>
 ## 📫 Contact Me
 
 <p align="left">
